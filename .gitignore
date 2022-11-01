@@ -1,0 +1,19 @@
+# vscode workspace
+.vscode/
+
+# prerequisites
+*.dll
+lib/
+
+# precompiled headers
+*.gch
+
+# executable file
+*.exe
+*.out
+
+# compiled object files 
+*.slo
+*.lo
+*.o
+*.obj
