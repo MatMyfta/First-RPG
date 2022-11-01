@@ -4,6 +4,7 @@
 # prerequisites
 *.dll
 lib/
+include/
 
 # precompiled headers
 *.gch
